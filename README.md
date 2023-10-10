@@ -74,7 +74,13 @@
 <td>VGA Box, Controller, Arcade Stick, VMU</td>
 </table>
 <br>
-"Trizeal" (トライジール) is xxxx
+"Trizeal" (トライジール) is a sci-fi vertical-scrolling shooter directly ported from its arcade incarnation.
+<br><br>
+Using polygonal graphics, but retaining a completely 2D gameplay, "Trizeal" puts you in command of two tiny starfighter as you attempt to clear several stages filled with enemy ships and creatures gunning for you.
+<br><br>
+Your ship is able to morph into three distinct configurations, each with their own speed and armor as well as unique weapon system (basic machine gun, homing missiles, and laser), by picking up power-ups you can upgrade each form and increase its abilities and the point of the game is to keep your ship balanced enough to survive in all situations.
+<br><br>
+Features a unique Bonus mode with additional stages not included in the arcade original, and two-player cooperative gameplay.
 
 <h2>Unlimited Continues Feature</h2>
 fasdfasdfsdaf
