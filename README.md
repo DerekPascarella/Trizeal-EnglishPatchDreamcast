@@ -55,32 +55,26 @@
 <table>
 <tr>
 <td><b>Title</b></td>
-<td>Cool Cool Toon (クルクルトゥーン)</td>
+<td>Trizeal (トライジール)</td>
 </tr>
 <tr>
 <td><b>Developer</b></td>
-<td>SNK</td>
+<td>Triangle Service</td>
 </tr>
 <tr>
 <td><b>Publisher</b></td>
-<td>SNK</td>
+<td>SEGA</td>
 </tr>
 <tr>
 <td><b>Release Date</b></td>
-<td>2000-08-10</td>
+<td>2005-06-05</td>
 </tr>
 <tr>
 <td><b>Supported Peripherals</b></td>
-<td>VGA Box, Jump Pack, Controller, VMU, Setsuzoku Cable (Link Cable), Maracas (Unofficially)</td>
+<td>VGA Box, Controller, Arcade Stick, VMU</td>
 </table>
 <br>
-"Cool Cool Toon" (クルクルトゥーン) is an interactive 3D rhythm-comic game developed by SNK for the Dreamcast, making it one of the last games the company developed for the console. The title is also capable of linking with its Neo Geo Pocket Color companion title, "Cool Cool Jam". Both titles were released on August 10th, 2000 in Japan. The games were never licensed or localized to any other country.
-<br><br>
-The gameplay has often been compared with another rhythm game at the time, "Space Channel 5", by fans and critics alike. Main visuals and character designs were done by comic book artist and illustrator, Ippei Gyoubu.
-<br><br>
-References to the game and some of its characters were later featured in one of the stages in "Neo Geo Battle Coliseum". 
-<br><br>
-In 2014, SNK Playmore released the mobile game "The Rhythm of Fighters", which features a similar gameplay.
+"Trizeal" (トライジール) is xxxx
 
 <h2>Unlimited Continues Feature</h2>
 fasdfasdfsdaf
