@@ -38,6 +38,8 @@
  <li>A half-width font has been implemented.</li>
  <li>An in-game button combination has been implemented to toggle unlimited continues on/off (see <a href="#unlimited-continues-feature">Unlimited Continues Feature</a>).</li>
  <li>All textures/graphics have been translated into English and re-rendered.</li>
+ <li>"Triangle Service" logo that appears on boot-up splash screen has been updated to a better version.</li>
+ <li>"Shooting Love" logo that appears on boot-up splash screen has been updated to a better version.</li>
  <li>All in-game text has been translated and appears in English.</li>
  <li>Inconsistencies and errors for pre-existing English have been corrected.</li>
  <li>A 100% fully unlocked save has been provided (see <a href="#fully-unlocked-save">Fully Unlocked Save</a>).</li>
