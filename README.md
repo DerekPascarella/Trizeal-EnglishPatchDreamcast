@@ -75,9 +75,9 @@
 <br><br>
 Using polygonal graphics, but retaining a completely 2D gameplay, "Trizeal" puts you in command of two tiny starfighter as you attempt to clear several stages filled with enemy ships and creatures gunning for you.
 <br><br>
-Your ship is able to morph into three distinct configurations, each with their own speed and armor as well as unique weapon system (basic machine gun, homing missiles, and laser), by picking up power-ups you can upgrade each form and increase its abilities and the point of the game is to keep your ship balanced enough to survive in all situations.
+The player's ship is able to morph into three distinct configurations, each with their own speed and armor as well as unique weapon system (basic machine gun, homing missiles, and laser), by picking up power-ups you can upgrade each form and increase its abilities and the point of the game is to keep your ship balanced enough to survive in all situations.
 <br><br>
-Features a unique Bonus mode with additional stages not included in the arcade original, and two-player cooperative gameplay.
+The Dreamcast version features a unique Bonus mode with additional stages not included in the arcade original, and two-player cooperative gameplay.
 
 <h2>Unlimited Continues Feature</h2>
 As a special feature of this English translation patch, a new unlimited continues option has been implemented via an in-game button combination. At any point during gameplay, players can press the L and R Trigger buttons to toggle unlimited continues on or off. A visual indicator, shown below, alerts players to this toggle's status. This indicator appears as an asterisk to the right of "1P SCORE" during Stage gameplay.
