@@ -1,4 +1,4 @@
-<h1>Cool Cool Toon</h1>
+<h1>Trizeal</h1>
 <img width="165" height="165" align="right" src="https://github.com/DerekPascarella/Trizeal-EnglishPatchDreamcast/blob/main/images/cover.jpg?raw=true">Download the English translation patch (more information in the <a href="#patching-instructions">Patching Instructions</a> section).
 <br><br>
 <ul>
