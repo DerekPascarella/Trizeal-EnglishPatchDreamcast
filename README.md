@@ -42,7 +42,8 @@
  <li>English language inconsistencies and errors have been corrected.</li>
  <li>A 100% fully unlocked save has been provided (see <a href="#fully-unlocked-save">Fully Unlocked Save</a>).</li>
  <li>VMU save file metadata has been translated and appears in English.</li>
- <li>VMU save icon has been translated into English.</li>
+ <li>VMU save icon appears in English.</li>
+ <li>Added missing disc art PVR texture for users of GDmenu.</li>
 </ul>
 
 <h2>About the Game</h2>
