@@ -38,7 +38,7 @@
  <li>A half-width font has been implemented.</li>
  <li>An in-game button combination has been implemented to toggle unlimited continues on/off (see <a href="#unlimited-continues-feature">Unlimited Continues Feature</a>).</li>
  <li>All textures/graphics have been translated into English and re-rendered.</li>
- <li>All in-game text/menus has been translated and appears in English.</li>
+ <li>All in-game text has been translated and appears in English.</li>
  <li>English language inconsistencies and errors have been corrected.</li>
  <li>A 100% fully unlocked save has been provided (see <a href="#fully-unlocked-save">Fully Unlocked Save</a>).</li>
  <li>VMU save file metadata has been translated and appears in English.</li>
