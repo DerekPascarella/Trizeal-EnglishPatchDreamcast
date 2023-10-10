@@ -84,4 +84,14 @@ Note that Trigger buttons can be mapped to action commands (e.g., bomb), and the
 <img width="308" height="62" src="https://github.com/DerekPascarella/Trizeal-EnglishPatchDreamcast/blob/main/images/unlt_cont_toggle.png?raw=true">
 
 <h2>Fully Unlocked Save</h2>
-fasdfasdfsdaf
+<a href="https://github.com/DerekPascarella/Trizeal-EnglishPatchDreamcast/tree/main/save">A 100% unlocked save</a> is provided with this watch release, unlocking the following items:
+<ul>
+ <li>"Score Attack" Stage 1</li>
+ <li>"Score Attack" Stage 2</li>
+ <li>"Score Attack" Stage 3</li>
+ <li>"Score Attack" Stage 4</li>
+ <li>"Score Attack" Stage 5</li>
+ <li>"Score Attack" Stage 6</li>
+ <li>"Score Attack" Lifting Stage</li>
+ <li>"Score Attack" Bonus Stage</li>
+</ul>
