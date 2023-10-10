@@ -35,20 +35,14 @@
 <img align="right" width="267" height="200" src="https://github.com/DerekPascarella/Trizeal-EnglishPatchDreamcast/blob/main/images/screenshot.png?raw=true">Below is a high-level list of changes implemented for this English translation patch.
 <br><br>
 <ul>
- <li>A variable-width font has been implemented.</li>
+ <li>A half-width font has been implemented.</li>
+ <li>An in-game button combination has been implemented to toggle unlimited continues on/off (see <a href="#unlimited-continues-feature">Unlimited Continues Feature</a>).</li>
  <li>All textures/graphics have been translated into English and re-rendered.</li>
- <li>All in-game dialogue text has been translated and appears in English.</li>
- <li>All in-game cutscenes have been translated and subtitled in English.</li>
- <li>All unlockable character and costume names have been translated and appear in English.</li>
- <li>All mini-games have been translated and appear in English.</li>
- <li>All menu text/graphics has been translated and appears in English.</li>
+ <li>All in-game text/menus has been translated and appears in English.</li>
+ <li>English language inconsistencies and errors have been corrected.</li>
+ <li>A 100% fully unlocked save has been provided (see <a href="#fully-unlocked-save">Fully Unlocked Save</a>).</li>
  <li>VMU save file metadata has been translated and appears in English.</li>
- <li>Neo Geo Pocket Color link (for use with "Cool Cool Jam") messages have been translated and appear in English (see <a href="#neo-geo-pocket-color-link-feature">Neo Geo Pocket Color Link Feature</a> section).</li>
- <li>Broken 50hz mode when game detects PAL console with a non-VGA video cable has been fixed, now defaulting to 60hz NTSC.</li>
- <li>The built-in "INTERNET GATE" has been replaced with special bonus content (see <a href="#bonus-content">Bonus Content</a> section).</li>
-  <ul>
-   <li>Previously this portion of the game was inaccessible to those who've never configured ISP settings on their Dreamcast, but this requirement has been removed.</li>
-  </ul>
+ <li>VMU save icon has been translated into English.</li>
 </ul>
 
 <h2>About the Game</h2>
