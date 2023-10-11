@@ -37,6 +37,7 @@
 <ul>
  <li>A half-width font has been implemented.</li>
  <li>An in-game button combination has been implemented to toggle unlimited continues on/off (see <a href="#unlimited-continues-feature">Unlimited Continues Feature</a>).</li>
+ <li>Set default display mode to fill the entire screen, fixing original bug causing text to be cut off on the left and right.</li>
  <li>All textures/graphics have been translated into English and re-rendered.</li>
  <li>"Triangle Service" logo that appears on boot-up splash screen has been updated to a better version.</li>
  <li>"Shooting Love" logo that appears on boot-up splash screen has been updated to a better version.</li>
