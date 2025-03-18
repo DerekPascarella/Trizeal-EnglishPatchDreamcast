@@ -83,7 +83,7 @@ The Dreamcast version features a unique Bonus mode with additional stages not in
 <h2>Unlimited Continues Feature</h2>
 As a special feature of this English translation patch, a new unlimited continues option has been implemented via an in-game button combination. At any point during gameplay, players can press the L and R Trigger buttons to toggle unlimited continues on or off. A visual indicator, shown below, alerts players to this toggle's status. This indicator appears as an asterisk to the right of "1P SCORE" during Stage gameplay.
 <br><br>
-Note that Trigger buttons can be mapped to action commands (e.g., bomb), and therefore players should activate/de-active unlimited continues outside of normal gameplay, such as at the title screen or while in the pause menu.
+Note that Trigger buttons can be mapped to action commands (e.g., bomb), and therefore players should activate/de-activate unlimited continues outside of normal gameplay, such as at the title screen or while in the pause menu.
 <br><br>
 <img width="308" height="62" src="https://github.com/DerekPascarella/Trizeal-EnglishPatchDreamcast/blob/main/images/unlt_cont_toggle.png?raw=true">
 
